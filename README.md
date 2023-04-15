@@ -1,7 +1,7 @@
-# HTML CSS Tailwind Projects
+# `HTML CSS Tailwind Projects`
 
-##[]()🚀
+- ## SEO Master Project 1 [GitHub](https://github.com/ShauryaAnchal/SEO-Master-Project-1)🚀
 
-##[](https://github.com/ShauryaAnchal/Crypto-Market-Project-2)🚀
+- ## Crypto Market Project 2 [GitHub](https://github.com/ShauryaAnchal/Crypto-Market-Project-2)🚀
 
-##  VS Code Clone [GitHub](https://github.com/ShauryaAnchal/VS-Code-Clone)🚀
+- ##  VS Code Clone [GitHub](https://github.com/ShauryaAnchal/VS-Code-Clone)🚀

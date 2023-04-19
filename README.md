@@ -12,4 +12,6 @@
 
 - ## Justice-Project-6 [GitHub](https://github.com/ShauryaAnchal/Justice-Project-6)🚀
 
+- ## Credit-Card-Landing-Page-Project-7 [GitHub](https://github.com/ShauryaAnchal/Credit-Card-Landing-Page-Project-7)🚀
+
 - ##  VS Code Clone [GitHub](https://github.com/ShauryaAnchal/VS-Code-Clone)🚀

@@ -14,4 +14,6 @@
 
 - ## Credit-Card-Landing-Page-Project-7 [GitHub](https://github.com/ShauryaAnchal/Credit-Card-Landing-Page-Project-7)🚀
 
+- ## Hosting-Site-Landing-Page-Project-8 [GitHub](https://github.com/ShauryaAnchal/Hosting-Site-Landing-Page-Project-8)🚀
+
 - ##  VS Code Clone [GitHub](https://github.com/ShauryaAnchal/VS-Code-Clone)🚀

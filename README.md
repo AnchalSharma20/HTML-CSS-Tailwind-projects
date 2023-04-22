@@ -16,4 +16,6 @@
 
 - ## Hosting-Site-Landing-Page-Project-8 [GitHub](https://github.com/ShauryaAnchal/Hosting-Site-Landing-Page-Project-8)🚀
 
+- ## Gaming-Landing-Page-Project-9 [GitHub](https://github.com/ShauryaAnchal/Gaming-Landing-Page-Project-9)🚀
+
 - ##  VS Code Clone [GitHub](https://github.com/ShauryaAnchal/VS-Code-Clone)🚀

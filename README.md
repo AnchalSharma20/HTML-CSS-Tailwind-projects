@@ -22,6 +22,6 @@
 
 - ## Beats-Landing-Page-Project-11 [GitHub](https://github.com/ShauryaAnchal/Beats-Landing-Page-Project-11)🚀
 
-- ##  [GitHub]()🚀
+- ## Data-Analytics-Landing-Page-Project-12 [GitHub](https://github.com/ShauryaAnchal/Data-Analytics-Landing-Page-Project-12)🚀
 
 - ##  VS Code Clone [GitHub](https://github.com/ShauryaAnchal/VS-Code-Clone)🚀
